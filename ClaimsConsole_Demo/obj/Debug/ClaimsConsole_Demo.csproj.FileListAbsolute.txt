@@ -1,0 +1,14 @@
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.exe.config
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.exe
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.pdb
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.csprojResolveAssemblyReference.cache
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.csproj.CoreCompileInputs.cache
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.exe
+C:\Users\fagner.gomes\source\repos\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.pdb
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.exe.config
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.exe
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\bin\Debug\ClaimsConsole_Demo.pdb
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.csprojAssemblyReference.cache
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.csproj.CoreCompileInputs.cache
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.exe
+C:\DESENVOLVIMENTO\PROJETOS\C#\ClaimsConsole_Demo\ClaimsConsole_Demo\obj\Debug\ClaimsConsole_Demo.pdb
